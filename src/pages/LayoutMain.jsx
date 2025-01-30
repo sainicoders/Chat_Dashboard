@@ -61,7 +61,7 @@ function LayoutMain() {
             {" "}
             <Sidebar />
           </div>
-          <div className="size-14 h-full w-[60%] grow-0">
+          <div className="size-14 h-[93vh] w-[60%] grow-0">
             <div className="flex gap-4 flex-col">
               <div className="w-full ">
                 <div className="relative flex items-center">
